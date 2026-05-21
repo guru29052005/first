@@ -1,0 +1,3 @@
+git tag versionnnum 
+git tag (used to check the tags )
+git  checkout versionnum (to switch the version)
